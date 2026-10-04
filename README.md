@@ -63,7 +63,7 @@ To allow for dynamic data exploration, this dashboard includes several interacti
 
 These slicers enable users to customize their view and focus on specific data segments.
 
-![Description of Image](Zomato_Data_Analysis_Anjana_Kuiri.JPG)
+![Description of Image](Zomato-Dashboard.png)
 
 ### User Guide
 
